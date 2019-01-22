@@ -1,0 +1,37 @@
+{
+  "name": "redacted",
+  "version": "1.0.0",
+  "description": "a utility to redact elements from a webpage",
+  "main": "./lib/index.js",
+  "scripts": {
+    "clean": "rimraf lib",
+    "lint": "eslint src",
+    "build": "cross-env BABEL_ENV=production babel src --out-dir lib"
+  },
+  "files": [
+    "lib",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-chapman/redacted.git"
+  },
+  "author": "Jack Chapman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jack-chapman/redacted/issues"
+  },
+  "homepage": "https://github.com/jack-chapman/redacted#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-add-module-exports": "^1.0.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-minify": "^0.5.0",
+    "cross-env": "^5.2.0",
+    "eslint": "^5.12.1",
+    "rimraf": "^2.6.3"
+  }
+}
