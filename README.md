@@ -1,6 +1,6 @@
 # 👀 Redacted
 
-## Quick and easy custom* censorship
+Quick and easy custom* censorship
 
 \* custom config coming soon.
 
