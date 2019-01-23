@@ -1,7 +1,7 @@
 {
   "name": "redacted",
   "version": "1.0.0",
-  "description": "a utility to redact elements from a webpage",
+  "description": "quick and easy custom censorship",
   "main": "./lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
