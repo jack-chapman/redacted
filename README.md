@@ -6,7 +6,7 @@
 
 ## 🔧 Installation
 
-Download the minified version of redacted [here](https://raw.githubusercontent.com/jack-chapman/redacted/master/lib/redacted.min.index.js)
+Download the minified version of redacted [here](https://raw.githubusercontent.com/jack-chapman/redacted/master/lib/redacted.min.js)
 
 Alternatively, you could clone this repo and run `npm install`, then `npm build` to make your own copy.
 
