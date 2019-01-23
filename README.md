@@ -4,6 +4,8 @@ Quick and easy custom* censorship
 
 \* custom config coming soon.
 
+**Fair warning: This is hardly tested at all. Use at your own risk.**
+
 ## 🔧 Installation
 
 Download the minified version of redacted [here](https://raw.githubusercontent.com/jack-chapman/redacted/master/lib/redacted.min.js)
